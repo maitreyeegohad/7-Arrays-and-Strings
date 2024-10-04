@@ -45,7 +45,7 @@ Step 2: Declare an integer array x of size 6, integer variables i, sum, and avg.
 
 Step 3: Initialize sum to 0.
 
-Step 4: Display the message "Enter array: " to prompt the user for input.
+Step 4: Display the message "Enter array:" to prompt the user for input.
 
 Step 5: Use a for loop to iterate from i = 0 to i < 6:   
 Step 5.1: In each iteration, take input from the user and store it in the array x[i].
